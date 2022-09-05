@@ -1,0 +1,3 @@
+[submodule "autocausalML"]
+	path = autocausalML
+	url = https://github.com/Larsvanderlaan/autocausalML
