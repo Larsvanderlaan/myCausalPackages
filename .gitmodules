@@ -1,3 +1,15 @@
 [submodule "autocausalML"]
 	path = autocausalML
 	url = https://github.com/Larsvanderlaan/autocausalML
+[submodule "npcausalML"]
+	path = npcausalML
+	url = https://github.com/Larsvanderlaan/npcausalML
+[submodule "causalglm"]
+	path = causalglm
+	url = https://github.com/tlverse/causalglm
+[submodule "ThresholdTMLE"]
+	path = ThresholdTMLE
+	url = https://github.com/Larsvanderlaan/ThresholdTMLE
+[submodule "npOddsRatio"]
+	path = npOddsRatio
+	url = https://github.com/Larsvanderlaan/npOddsRatio
